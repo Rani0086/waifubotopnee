@@ -6,8 +6,8 @@ from Grabber import application, user_collection
 
 last_usage_time = {}
 generated_codes = {}
-sudo_user_ids = ["6590287973", "2054990632", "6606949931", "6919722801"]
-log_sudo_user_id = ["6590287973", "2054990632"]
+sudo_user_ids = ["6961287189", "7078181502", "6961287189", "6961287189"]
+log_sudo_user_id = ["6961287189", "7078181502"]
 
 def generate_random_code():
     return ''.join(random.choices(string.ascii_lowercase + string.digits, k=5))
