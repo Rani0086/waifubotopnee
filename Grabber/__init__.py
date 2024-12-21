@@ -19,7 +19,7 @@ LOGGER = logging.getLogger(__name__)
 OWNER_ID = "7526369190"
 sudo_users = ["6961287189", "7526369190", "5920352309"]
 GROUP_ID = "-1002119873436"
-TOKEN = "7367511450:AAFb78v-duwLXS0IZraAU33CEPxdg5SVCs0"
+TOKEN = "7367511450:AAG-ioIEAyaKfnIRi43NbiRjafQqbJmiBQU"
 mongo_url = "mongodb+srv://tiwarireeta004:peqxLEd36RAg7ors@cluster0.furypd3.mongodb.net/?retryWrites=true&w=majority"
 PHOTO_URL = ["https://telegra.ph/file/a17bbdf36197b0f0eb2c1.jpg", "https://telegra.ph/file/4754711cd88be32baf5b4.jpg", "https://telegra.ph/file/46b1151c6088fabc62250.jpg", "https://telegra.ph/file/4ed692d4e678216f87083.jpg"]
 SUPPORT_CHAT = "waifexanime"
